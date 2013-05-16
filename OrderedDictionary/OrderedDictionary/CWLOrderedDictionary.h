@@ -3,9 +3,10 @@
 //  OrderedDictionary
 //
 //  Created by Matt Gallagher on 19/12/08.
-//  Maintainer:Kazuto Yamasaki<Pokelabo,inc.>
+//  Maintainer:Kazuto Yamasaki<kazuto_yamasaki@pokelabo.co.jp>
 //  Copyright 2008 Matt Gallagher.
-//            2013 Kazuto Yamasaki<Pokelabo,inc.>.
+//            2012 ilja.
+//            2013 Kazuto Yamasaki<kazuto_yamasaki@pokelabo.co.jp>.
 //  All rights reserved.
 //
 //  This software is provided 'as-is', without any express or implied

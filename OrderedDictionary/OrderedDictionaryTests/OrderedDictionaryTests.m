@@ -2,7 +2,8 @@
 //  OrderedDictionaryTests.m
 //  OrderedDictionaryTests
 //
-//  Created by kazuto_yamasaki on 2013/05/16.
+//  Created by ilja on 05.11.12.
+//  Copyright (c) 2012 iwascoding GmbH. All rights reserved.
 //
 //
 
