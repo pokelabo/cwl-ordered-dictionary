@@ -8,10 +8,10 @@
 
 #import <SenTestingKit/SenTestingKit.h>
 
-@class OrderedDictionary;
+@class CWLOrderedDictionary;
 
 @interface OrderedDictionaryTests : SenTestCase
 
-@property (retain) OrderedDictionary *testDict;
+@property (retain) CWLOrderedDictionary *testDict;
 
 @end

@@ -1,9 +1,12 @@
 //
-//  OrderedDictionary.h
+//  CWLOrderedDictionary.h
 //  OrderedDictionary
 //
 //  Created by Matt Gallagher on 19/12/08.
-//  Copyright 2008 Matt Gallagher. All rights reserved.
+//  Maintainer:Kazuto Yamasaki<Pokelabo,inc.>
+//  Copyright 2008 Matt Gallagher.
+//            2013 Kazuto Yamasaki<Pokelabo,inc.>.
+//  All rights reserved.
 //
 //  This software is provided 'as-is', without any express or implied
 //  warranty. In no event will the authors be held liable for any damages
@@ -21,10 +24,10 @@
 //     distribution.
 //
 
-@interface OrderedDictionary : NSMutableDictionary
+@interface CWLOrderedDictionary : NSMutableDictionary
 {
-	NSMutableDictionary *dictionary;
-	NSMutableOrderedSet	*keyset;
+    NSMutableDictionary *dictionary;
+    NSMutableOrderedSet*keyset;
 }
 
 - (void)setObject:(id)anObject forKey:(id)aKey;
